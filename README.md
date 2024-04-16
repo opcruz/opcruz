@@ -12,10 +12,8 @@
   Languages and tools
 </h3>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,spring,aws,docker,java,scala,python,vscode,linux,mysql,postgres,mongo,kafka,redis,cassandra,&perline=8" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,idea,spring,aws,docker,java,scala,python,vscode,linux,mysql,postgres,mongo,kafka,redis,cassandra,&perline=8&theme=light" />
 </p>
 
 -------
@@ -34,6 +32,6 @@
 <!-- &nbsp; -->
 
 <div align='center'>
-<a href="http://www.github.com/opcruz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=opcruz&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="https://www.github.com/opcruz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=opcruz&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 </div>
 
