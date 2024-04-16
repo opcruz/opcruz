@@ -3,7 +3,7 @@
 - 👨‍💻 I am a Software Engineer.
 - 🚀 I have been involved in the development of microservices from conception to production release. I specialize in the design and development of scalable APIs, database management, and system integration using message brokers. 
 - 🌍 I'm based in Jalisco MX
-- ✉️ Contact me at orestesperez1995g@gmail.com 
+- ✉️ Contact me at orestesperez1995@gmail.com 
   
 <!-- &nbsp; -->
 
